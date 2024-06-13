@@ -1,0 +1,13 @@
+import java.util.LinkedList;
+
+public class link {
+    public static void main(String[] args) {
+        LinkedList link = new LinkedList();
+        link.add("sherwin");
+        link.add("alvin");
+        link.add("Julia");
+        
+        System.out.println(link);
+
+    }
+}
